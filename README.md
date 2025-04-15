@@ -28,7 +28,6 @@ This project aims to detect fraudulent credit card transactions using various ma
 - ✅ Hyperparameter tuning with `RandomizedSearchCV`
 - ✅ Models used:
   - `XGBoost`
-  - `LightGBM`
   - `RandomForest`
   - `LogisticRegression`
   - `StackingClassifier`
